@@ -2,6 +2,9 @@ import Game from '../Game';
 import Header from '../Header';
 
 function App() {
+
+  console.log('Hello')
+
   return (
     <div className="wrapper">
       <Header />
